@@ -1,0 +1,39 @@
+[submodule "exercise-exquisite-corpse-"]
+	path = exercise-exquisite-corpse-
+	url = https://github.com/LysieSoyez/exercise-exquisite-corpse-
+[submodule "exercise-markdown2"]
+	path = exercise-markdown2
+	url = https://github.com/LysieSoyez/exercise-markdown2
+[submodule "markdown-warmup-html"]
+	path = markdown-warmup-html
+	url = https://github.com/LysieSoyez/markdown-warmup-html
+[submodule "Profile-card"]
+	path = Profile-card
+	url = https://github.com/LysieSoyez/Profile-card
+[submodule "algo-js"]
+	path = algo-js
+	url = https://github.com/LysieSoyez/algo-js
+[submodule "DOM"]
+	path = DOM
+	url = https://github.com/LysieSoyez/DOM
+[submodule "Timeouts-Intervals"]
+	path = Timeouts-Intervals
+	url = https://github.com/LysieSoyez/Timeouts-Intervals
+[submodule "Dates"]
+	path = Dates
+	url = https://github.com/LysieSoyez/Dates
+[submodule "Asynchronous"]
+	path = Asynchronous
+	url = https://github.com/LysieSoyez/Asynchronous
+[submodule "Learning-sass"]
+	path = Learning-sass
+	url = https://github.com/LysieSoyez/Learning-sass
+[submodule "random-quote-using-async-await"]
+	path = random-quote-using-async-await
+	url = https://github.com/LysieSoyez/random-quote-using-async-await
+[submodule "PhpTry"]
+	path = PhpTry
+	url = https://github.com/LysieSoyez/PhpTry
+[submodule "Profil-card"]
+	path = Profil-card
+	url = https://github.com/LysieSoyez/Profil-card
